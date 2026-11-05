@@ -14,7 +14,7 @@
 
 Ce projet vise à moderniser le commerce traditionnel en offrant une vitrine numérique complète accessible $24\text{h}/24$ et $7\text{j}/7$, tout en centralisant la gestion des stocks, des commandes et du catalogue pour l'administrateur.
 
-Le rapport complet est disponible ici : docs/Cahier des charges E-commerce.pdf
+Le rapport complet est disponible ici : [Cahier des charges E-commerce.pdf](<docs/Cahier des charges E-commerce.pdf>)
 
 ## ✨ Fonctionnalités Principales
 
