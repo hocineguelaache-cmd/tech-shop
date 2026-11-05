@@ -6,13 +6,15 @@
 >
 > **Université Abderrahmane Mira de Béjaïa** | Faculté des Sciences Exactes | Département Informatique
 >
-> **Réalisé par :**  GUELAACHE Hocine & BOUKHENAK Kamel 
+> **Réalisé par :**  GUELAACHE Hocine & BOUKHENAK Kamel
 
 ## 📌 À propos du projet
 
 **TECH-SHOP**  est une application web e-commerce dynamique dédiée à la vente d'équipements technologiques et produits High-Tech (smartphones, ordinateurs, audio, montres connectées et accessoires).
 
 Ce projet vise à moderniser le commerce traditionnel en offrant une vitrine numérique complète accessible $24\text{h}/24$ et $7\text{j}/7$, tout en centralisant la gestion des stocks, des commandes et du catalogue pour l'administrateur.
+
+Le rapport complet est disponible ici : docs/Cahier des charges E-commerce.pdf
 
 ## ✨ Fonctionnalités Principales
 
