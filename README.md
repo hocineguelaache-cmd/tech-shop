@@ -1,5 +1,7 @@
 # 🛒 TECH-SHOP - Application Web E-Commerce High-Tech
 
+[![Démo en ligne](https://img.shields.io/badge/Demo-Live_Site-brightgreen?style=for-the-badge)](https://tech-shop.site.je/tech-shop/index.php)
+
 > **Projet Universitaire** — 3ème année ING (Module Développement Web)
 >
 > **Université Abderrahmane Mira de Béjaïa** | Faculté des Sciences Exactes | Département Informatique
